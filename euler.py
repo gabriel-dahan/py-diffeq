@@ -1,3 +1,5 @@
+# %% TESTS - IGNORE | Not part of the module %% #
+
 import matplotlib.pyplot as plt
 from math import exp
 
